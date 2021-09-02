@@ -95,9 +95,10 @@ export default {
 </script>
 
 <style>
-.alert-success {
+.alert-success,
+.message {
   margin-top: .5em;
-  color: orange;
+  color: cornflowerblue;
   font-weight: 600;
 }
 .alert-danger {
